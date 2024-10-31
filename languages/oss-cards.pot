@@ -1,0 +1,457 @@
+# Copyright (C) 2023 OssKit.Net
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OSS Cards Plugin\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-07-03 15:13+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alex Green <contact@osskit.net>\n"
+"Language-Team: OSS Kit Team <contact@osskit.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BACKUP/GPT.js:9
+msgid "Effect"
+msgstr ""
+
+#: inc/com_upgrade.php:6 inc/preview-cards.php:186
+msgid "Thanks for using our plugin!"
+msgstr ""
+
+#: inc/com_upgrade.php:7 inc/preview-cards.php:187
+msgid ""
+"Get the version Pro to contribute the further project development. It costs "
+"just same as couple of cups of coffee"
+msgstr ""
+
+#: inc/com_upgrade.php:8
+msgid "Click to upgrade for Pro!"
+msgstr ""
+
+#: inc/oss_cards_widget.php:12
+msgid "OSS Cards Widget"
+msgstr ""
+
+#: inc/oss_cards_widget.php:14
+msgid "Displays OSS cards based on a specified ID"
+msgstr ""
+
+#: inc/oss_cards_widget.php:38
+msgid "Select Cards:"
+msgstr ""
+
+#: inc/preview-cards.php:3
+msgid ""
+"Full width preview is supposed that you will place cards in the area which "
+"has screen wide layout."
+msgstr ""
+
+#: inc/preview-cards.php:7
+msgid "Card Type"
+msgstr ""
+
+#: inc/preview-cards.php:14
+msgid "Layout"
+msgstr ""
+
+#: inc/preview-cards.php:21
+msgid "Items in Row"
+msgstr ""
+
+#: inc/preview-cards.php:30
+msgid "Full Width"
+msgstr ""
+
+#: inc/preview-cards.php:37
+msgid "Refresh"
+msgstr ""
+
+#: inc/preview-cards.php:41
+msgid ""
+"You have no cards yet.  Fill the form on left and click button - Add Item"
+msgstr ""
+
+#: inc/preview-cards.php:42
+msgid "You can add as many cards as you wish, and edit or delete them then"
+msgstr ""
+
+#: inc/preview-cards.php:95
+msgid ""
+"You have selected an Animation Premium. It displays in backend as a Demo, "
+"but will be replaced in frontend with with default."
+msgstr ""
+
+#: inc/preview-cards.php:95
+msgid "To use it get version Premiun , thus you will help further development"
+msgstr ""
+
+#: inc/preview-cards.php:107
+msgid ""
+"You have selected a Card Style Premium. It displays in backend as a Demo, "
+"but will be replaced in frontend with default."
+msgstr ""
+
+#: inc/preview-cards.php:108
+msgid "To use it get version Premiun , thus you will help further development."
+msgstr ""
+
+#: inc/preview-cards.php:114
+msgid "Notes"
+msgstr ""
+
+#: inc/preview-cards.php:116
+msgid ""
+"Preview can slightly differ from frontend because of area width of preview "
+"here and areas where you going to use. "
+msgstr ""
+
+#: inc/preview-cards.php:123
+msgid "Hints & Help"
+msgstr ""
+
+#: inc/preview-cards.php:126
+msgid "Edit Card"
+msgstr ""
+
+#: inc/preview-cards.php:128
+msgid ""
+"To edit a card not necessary click icon edit, whole card is edit trigger. "
+"Icon marked just you know that you can edit card"
+msgstr ""
+
+#: inc/preview-cards.php:133
+msgid "External Images URL"
+msgstr ""
+
+#: inc/preview-cards.php:135
+msgid ""
+"You can use external images as well. For this you no need to use media "
+"library, just enter its URL in the field(see screenshot)"
+msgstr ""
+
+#: inc/preview-cards.php:136
+msgid ""
+"Remember - Some can have copyright, use your own from another sites or "
+"images under necessary licences"
+msgstr ""
+
+#: inc/preview-cards.php:142
+msgid "Widget usage"
+msgstr ""
+
+#: inc/preview-cards.php:144
+msgid "You can use widget to display your Cards as well."
+msgstr ""
+
+#: inc/preview-cards.php:145
+msgid "Use it if your theme has widgets in the necessary areas."
+msgstr ""
+
+#: inc/preview-cards.php:146
+msgid "Go to widgets find OSS Cards Widget, add and select in dropdown."
+msgstr ""
+
+#: inc/preview-cards.php:147
+msgid ""
+"This method is useful if you want to use cards outside content area, for "
+"example in sidebar, footer etc"
+msgstr ""
+
+#: inc/preview-cards.php:161
+msgid "Content Items List Loading Problem?"
+msgstr ""
+
+#: inc/preview-cards.php:162
+msgid ""
+"Can you see it? Button to select and lists of content items after click. No? "
+"You have some problems then."
+msgstr ""
+
+#: inc/preview-cards.php:164
+msgid ""
+"If you are reading this means you have problems with content items loading"
+msgstr ""
+
+#: inc/preview-cards.php:165
+msgid ""
+"The plugin uses WP REST API to load content items for adding them to the "
+"cards. If for some reasons you have blocked REST API, list of content items "
+"will not be loading."
+msgstr ""
+
+#: inc/preview-cards.php:166
+msgid "What can you do?"
+msgstr ""
+
+#: inc/preview-cards.php:168
+msgid ""
+"You can ignore it, plugin will continue to work, but you can use only custom "
+"card form, i e to fill form manually,  though the option \"Select Content\" "
+"allow you to fill form automaticly"
+msgstr ""
+
+#: inc/preview-cards.php:169
+msgid "Try to unblock Reset API"
+msgstr ""
+
+#: inc/preview-cards.php:171
+msgid "What can REST API block?"
+msgstr ""
+
+#: inc/preview-cards.php:173
+msgid "Server Problem(hosting settings)"
+msgstr ""
+
+#: inc/preview-cards.php:174
+msgid "Another Plugin Blocks it"
+msgstr ""
+
+#: inc/preview-cards.php:175
+msgid "You yourself switched off REST API using any code"
+msgstr ""
+
+#: inc/preview-cards.php:177
+msgid "You can check if your site REST API is off clicking on the link"
+msgstr ""
+
+#: inc/preview-cards.php:177
+msgid ""
+"If you see Error 404 your site has no REST API, if you can see JSON code, "
+"but can't see button Select item, please report us"
+msgstr ""
+
+#: inc/preview-cards.php:183
+msgid "Shortcode Is Copied"
+msgstr ""
+
+#: inc/preview-cards.php:188
+msgid "Loading"
+msgstr ""
+
+#: inc/preview-cards.php:190
+msgid "Get Pro!"
+msgstr ""
+
+#: inc/preview-cards.php:195
+msgid ""
+"Warning: It seems your site has no REST API available. The plugin can't "
+"display content list data without it."
+msgstr ""
+
+#: inc/preview-cards.php:197
+msgid "Read More"
+msgstr ""
+
+#: inc/preview-cards.php:198
+msgid "Do not show this message again"
+msgstr ""
+
+#: inc/sidebar.php:20
+msgid "Add"
+msgstr ""
+
+#: inc/sidebar.php:24 inc/sidebar.php:245
+msgid "Image"
+msgstr ""
+
+#: inc/sidebar.php:36 inc/sidebar.php:103 inc/sidebar.php:142
+#: inc/sidebar.php:258
+msgid "Title"
+msgstr ""
+
+#: inc/sidebar.php:39 inc/sidebar.php:261
+msgid "Subtitle"
+msgstr ""
+
+#: inc/sidebar.php:42 inc/sidebar.php:264
+msgid "Description"
+msgstr ""
+
+#: inc/sidebar.php:44
+msgid "Url"
+msgstr ""
+
+#: inc/sidebar.php:44 inc/sidebar.php:267
+msgid "Leave empty if no need"
+msgstr ""
+
+#: inc/sidebar.php:49 inc/sidebar.php:163 inc/sidebar.php:178
+msgid "Link"
+msgstr ""
+
+#: inc/sidebar.php:49 inc/sidebar.php:184
+msgid "Text"
+msgstr ""
+
+#: inc/sidebar.php:56
+msgid "Card Style"
+msgstr ""
+
+#: inc/sidebar.php:60 inc/sidebar.php:61
+msgid "Animation"
+msgstr ""
+
+#: inc/sidebar.php:83
+msgid "Top Background"
+msgstr ""
+
+#: inc/sidebar.php:89
+msgid "Image Ratio"
+msgstr ""
+
+#: inc/sidebar.php:101
+msgid "Card "
+msgstr ""
+
+#: inc/sidebar.php:101 inc/sidebar.php:103
+msgid "Style"
+msgstr ""
+
+#: inc/sidebar.php:119 inc/sidebar.php:137
+msgid "Border"
+msgstr ""
+
+#: inc/sidebar.php:137 inc/sidebar.php:142 inc/sidebar.php:150
+#: inc/sidebar.php:178
+msgid "Color"
+msgstr ""
+
+#: inc/sidebar.php:146 inc/sidebar.php:172
+msgid "Background"
+msgstr ""
+
+#: inc/sidebar.php:165
+msgid "Type"
+msgstr ""
+
+#: inc/sidebar.php:172
+msgid "Button"
+msgstr ""
+
+#: inc/sidebar.php:184
+msgid "Align"
+msgstr ""
+
+#: inc/sidebar.php:194
+msgid "Icon Box Settings"
+msgstr ""
+
+#: inc/sidebar.php:195
+msgid "Icon Size"
+msgstr ""
+
+#: inc/sidebar.php:197
+msgid "Icon Style"
+msgstr ""
+
+#: inc/sidebar.php:204
+msgid ""
+"Note: Using this style don not use wide or non symmetrical icons or it will "
+"be used not balanced or even outside the circle"
+msgstr ""
+
+#: inc/sidebar.php:205
+msgid "Icon Background"
+msgstr ""
+
+#: inc/sidebar.php:209
+msgid "Icon Color"
+msgstr ""
+
+#: inc/sidebar.php:217
+msgid "Data Code"
+msgstr ""
+
+#: inc/sidebar.php:218
+msgid "Data for export, or for debugging(send to support)"
+msgstr ""
+
+#: inc/sidebar.php:223
+msgid "If sidebar not displaying click icon cog top right"
+msgstr ""
+
+#: inc/sidebar.php:228
+msgid "Help"
+msgstr ""
+
+#: inc/sidebar.php:241
+msgid "Edit"
+msgstr ""
+
+#: inc/sidebar.php:266
+msgid "Link Url"
+msgstr ""
+
+#: inc/sidebar.php:269
+msgid "Link Text"
+msgstr ""
+
+#: inc/sidebar.php:277
+msgid "Are you sure you want to leave page?"
+msgstr ""
+
+#: inc/sidebar.php:279
+msgid "All not saved changes will be lost!"
+msgstr ""
+
+#: inc/sidebar.php:280
+msgid "Cancel"
+msgstr ""
+
+#: inc/sidebar.php:281
+msgid "Leave"
+msgstr ""
+
+#: oss-cards.php:67
+msgid "Description Lenght"
+msgstr ""
+
+#: oss-cards.php:72
+msgid "Read More Text"
+msgstr ""
+
+#: oss-cards.php:79
+msgid "Admin Layout"
+msgstr ""
+
+#: oss-cards.php:90
+msgid "Save Changes"
+msgstr ""
+
+#: oss-cards.php:97
+msgid ""
+"Description Length(words) by default, maximum 55. This refers only to "
+"fetched text from content items. Length of custom cards as you wish. Also "
+"you can add or shorten fetched text for a senseful description. Default is 20"
+msgstr ""
+
+#: oss-cards.php:101
+msgid ""
+"Default text is \"Read More\", you can change it as you wish or write your "
+"own if your site language is not English"
+msgstr ""
+
+#: oss-cards.php:102
+msgid "Note: Also you can change it for every card when add or edit "
+msgstr ""
+
+#: oss-cards.php:219
+msgid "Copy To Clipboard"
+msgstr ""
+
+#: oss-cards.php:220
+msgid "Data Is Copied"
+msgstr ""
